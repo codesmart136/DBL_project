@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2E82d011563B4d9EED6Cd7badd243e61945a1faF",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x2E82d011563B4d9EED6Cd7badd243e61945a1faF",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "RIN",
+    "ID": 4
+  },
+  "NFT_NAME": "ModernMona",
+  "SYMBOL": "MM",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/modern-mona-test",
+  "SHOW_BACKGROUND": true
+}
