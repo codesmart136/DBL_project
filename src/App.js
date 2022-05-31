@@ -282,11 +282,6 @@ function App() {
                                                   Bored Ape, check out the collection on OpenSea.</p> --> */}
                                           </div>
                                           <div class="m-auto col-lg-3 col-12 offset-lg-1">
-                                            {/* <a href=""> */}
-                                              {/* <button class="bayc-button mint" type="button">
-                                                BUY A SPECIMEN HERE
-                                              </button> */}
-
                                               <s.Container
                                                 flex={2}
                                                 jc={"center"}
@@ -295,17 +290,17 @@ function App() {
                                                 {Number(data.totalSupply) >= CONFIG.MAX_SUPPLY ? (
                                                 <>
                                                     <s.TextTitle
-                                                    style={{ textAlign: "center", color: "var(--accent-text)" }}
+                                                        style={{ textAlign: "center", color: "var(--accent-text)" }}
                                                     >
-                                                    The sale has ended.
+                                                        The sale has ended.
                                                     </s.TextTitle>
                                                     <s.TextDescription
-                                                    style={{ textAlign: "center", color: "var(--accent-text)" }}
+                                                        style={{ textAlign: "center", color: "var(--accent-text)" }}
                                                     >
                                                     You can still find {CONFIG.NFT_NAME} on
                                                     </s.TextDescription>
                                                     <StyledLink target={"_blank"} href={CONFIG.MARKETPLACE_LINK}>
-                                                    {CONFIG.MARKETPLACE}
+                                                        {CONFIG.MARKETPLACE}
                                                     </StyledLink>
                                                 </>
                                                 ) : (
@@ -328,15 +323,6 @@ function App() {
                                                     ) 
                                                     : (
                                                     <>
-                                                        {/* <s.Container ai={"center"} jc={"center"} fd={"row"}> */}
-                                                        {/* <StyledButton
-                                                            disabled={claimingNft ? 1 : 0}
-                                                            onClick={(e) => {
-                                                              e.preventDefault();
-                                                              claimNFTs();
-                                                              getData();
-                                                            }}
-                                                        > */}
                                                         <button
                                                           className="bayc-button mint"
                                                           disabled={claimingNft ? 1 : 0}
@@ -348,15 +334,11 @@ function App() {
                                                         >
                                                           {claimingNft ? "BUSY" : "MINT A SPECIMEN"}
                                                         </button>
-                                                        {/* </StyledButton> */}
-                                                        {/* </s.Container> */}
                                                     </>
                                                     )}
                                                 </>
                                                 )}
                                               </s.Container>
-
-                                            {/* </a> */}
                                           </div>
                                       </div>
                                   </div>
