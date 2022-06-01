@@ -297,6 +297,17 @@ function App() {
                         <a href="https://www.instagram.com/differentbreedlabs/"><i class="fa fa-instagram social-icon pr-lg-0"></i></a>
                         <a href="https://discord.gg/yuUvTyBbPA"><i class="fa fa-discord-alt social-icon pr-lg-0"></i></a>
                         <a href="https://mobile.twitter.com/breed_labs"><i class="fa fa-twitter social-icon pr-lg-0"></i></a>
+                        <a href="https://raritysniper.com/nft-drops-calendar"
+                            style={{
+                                "width": "34px",
+                                "height": "56px",
+                                "justifyContent": "right",
+                                "display": "flex",
+                                "alignItems": "center"
+                            }}
+                        >
+                            <img src="images/sniper_logo.png" style={{ "width": "16px", "height": "16px"}}/>
+                        </a>
                     </div>
                 </div>           
             </nav>
@@ -842,6 +853,15 @@ function App() {
                                     <a href="https://www.instagram.com/differentbreedlabs/"><i class="fa fa-instagram social-icon pr-lg-0"></i></a>
                                     <a href="https://discord.gg/yuUvTyBbPA"><i class="fa fa-discord-alt social-icon pr-lg-0"></i></a>
                                     <a href="https://mobile.twitter.com/breed_labs"><i class="fa fa-twitter social-icon pr-lg-0"></i></a>
+                                    <a href="https://raritysniper.com/nft-drops-calendar">
+                                        <img src="images/sniper_logo.png" class="pr-lg-0"
+                                            style={{
+                                                "width": "22px",
+                                                "height": "21px",
+                                                "marginLeft": "13px"
+                                            }}
+                                        />
+                                    </a>
                                 </div>
                                 <div class="col-lg-12 col-sm-6 col-6">
                                     <p class="copyright text-right"><span class="copy-left">© 2022 Different Breed Labs</span>
