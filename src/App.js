@@ -374,6 +374,28 @@ function App() {
                                         <img src="images/slide_images/59.png"/>
                                         <img src="images/slide_images/60.png"/>
                                     </div>
+                                    {/* <div class="slideshow">
+                                        <img src="images/slide_images/41.png"/>
+                                        <img src="images/slide_images/42.png"/>
+                                        <img src="images/slide_images/43.png"/>
+                                        <img src="images/slide_images/44.png"/>
+                                        <img src="images/slide_images/45.png"/>
+                                        <img src="images/slide_images/46.png"/>
+                                        <img src="images/slide_images/47.png"/>
+                                        <img src="images/slide_images/48.png"/>
+                                        <img src="images/slide_images/49.png"/>
+                                        <img src="images/slide_images/50.png"/>
+                                        <img src="images/slide_images/51.png"/>
+                                        <img src="images/slide_images/52.png"/>
+                                        <img src="images/slide_images/53.png"/>
+                                        <img src="images/slide_images/54.png"/>
+                                        <img src="images/slide_images/55.png"/>
+                                        <img src="images/slide_images/56.png"/>
+                                        <img src="images/slide_images/57.png"/>
+                                        <img src="images/slide_images/58.png"/>
+                                        <img src="images/slide_images/59.png"/>
+                                        <img src="images/slide_images/60.png"/>
+                                    </div> */}
 
                                     {/* <!-- <img src="./BAYC_files/bayc-mutant-hero.jpg" class="img-fluid px-0" usemap="#mutant"> --> */}
                                 </div>
@@ -429,11 +451,11 @@ function App() {
                                             <div class="m-auto col-lg-3 col-12">
                                                 <h3 class="buy-ape-title">BUY A SPECIMEN</h3>
                                             </div>
+                                            {/* <div class="m-auto col-lg-4 col-12 offset-lg-1"> */}
                                             <div class="m-auto col-lg-4 col-12 offset-lg-1">
-                                                {/* <!-- <p class="common-p mb-lg-0">The initial sale has sold out. To get your
-                                                    Bored Ape, check out the collection on OpenSea.</p> --> */}
+                                              <p class="common-p mb-lg-0 font-weight-bold">Public Mint will start on June 5th.</p>
                                             </div>
-                                            <div class="m-auto col-lg-3 col-12 offset-lg-1">
+                                            {/* <div class="m-auto col-lg-3 col-12 offset-lg-1">
                                                 <s.Container
                                                     flex={2}
                                                     jc={"center"}
@@ -491,7 +513,7 @@ function App() {
                                                     </>
                                                     )}
                                                 </s.Container>
-                                            </div>
+                                            </div> */}
                                         </div>
                                     </div>
                                 </div>
