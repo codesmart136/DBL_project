@@ -453,7 +453,7 @@ function App() {
                                             </div>
                                             {/* <div class="m-auto col-lg-4 col-12 offset-lg-1"> */}
                                             <div class="m-auto col-lg-4 col-12 offset-lg-1">
-                                              <p class="common-p mb-lg-0 font-weight-bold">Public Mint will start on June 5th.</p>
+                                              <p class="common-p mb-lg-0 font-weight-bold">Public Mint will begin on June 11th at 12 PM EST.</p>
                                             </div>
                                             {/* <div class="m-auto col-lg-3 col-12 offset-lg-1">
                                                 <s.Container
