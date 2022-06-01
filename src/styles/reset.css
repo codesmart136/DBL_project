@@ -13655,3 +13655,46 @@ transition: fill 0.2s ease;
   border-radius: 4%;
 }
 
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+/* *, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Press Start 2P', cursive;
+  margin: auto;
+  padding: 1rem;
+  max-width: 120vmin;
+} */
+
+.slideshow {
+  display: flex;
+  overflow: hidden;
+  perspective-origin: 50% 50%;
+  transform-style: preserve-3d;
+  /* padding: 10% 0; */
+  opacity: 0;
+}
+
+.slideshow.in {
+  animation: in 1s ease-in both;
+  animation-direction: normal;
+}
+
+.slideshow > img {
+  max-height: 20vh;
+  max-width: 100%;
+  width: 40%;
+  object-fit: contain;
+}
+
+
+@keyframes in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
