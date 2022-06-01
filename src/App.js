@@ -293,9 +293,9 @@ function App() {
                         <a id="nav-link" title="TEAM" href="#team" class="nav-link">TEAM</a>
                     </div>
                     <div class="navbar-nav" id="nav-social">
-                        <a href=""><i class="fa fa-youtube-play social-icon pr-lg-0"></i></a>
+                        {/* <a href=""><i class="fa fa-youtube-play social-icon pr-lg-0"></i></a> */}
                         <a href="https://www.instagram.com/differentbreedlabs/"><i class="fa fa-instagram social-icon pr-lg-0"></i></a>
-                        <a href="https://discord.gg/uqnphDGK"><i class="fa fa-discord-alt social-icon pr-lg-0"></i></a>
+                        <a href="https://discord.gg/yuUvTyBbPA"><i class="fa fa-discord-alt social-icon pr-lg-0"></i></a>
                         <a href="https://mobile.twitter.com/breed_labs"><i class="fa fa-twitter social-icon pr-lg-0"></i></a>
                     </div>
                 </div>           
@@ -838,9 +838,9 @@ function App() {
                         <div class="order-last my-auto text-center col-lg-4 col-sm-12 col-12">
                             <div class="row">
                                 <div class="text-lg-right col-sm-12 col-12">
-                                    <a href=""><i class="fa fa-youtube-play social-icon pr-lg-0"></i></a>
+                                    {/* <a href=""><i class="fa fa-youtube-play social-icon pr-lg-0"></i></a> */}
                                     <a href="https://www.instagram.com/differentbreedlabs/"><i class="fa fa-instagram social-icon pr-lg-0"></i></a>
-                                    <a href="https://discord.gg/uqnphDGK"><i class="fa fa-discord-alt social-icon pr-lg-0"></i></a>
+                                    <a href="https://discord.gg/yuUvTyBbPA"><i class="fa fa-discord-alt social-icon pr-lg-0"></i></a>
                                     <a href="https://mobile.twitter.com/breed_labs"><i class="fa fa-twitter social-icon pr-lg-0"></i></a>
                                 </div>
                                 <div class="col-lg-12 col-sm-6 col-6">
