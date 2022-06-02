@@ -311,14 +311,12 @@ function App() {
                     </div>
                 </div>           
             </nav>
-
             <div>
                 <div>
                     <div class="common-container">
                         <div class="mb-4 mb-lg-5 container">
                             <div class="row">
                                 <div class="px-0 col-12">
-
                                     <div class="slideshow">
                                         <img src="images/slide_images/1.png"/>
                                         <img src="images/slide_images/2.png"/>
@@ -385,30 +383,6 @@ function App() {
                                         <img src="images/slide_images/59.png"/>
                                         <img src="images/slide_images/60.png"/>
                                     </div>
-                                    {/* <div class="slideshow">
-                                        <img src="images/slide_images/41.png"/>
-                                        <img src="images/slide_images/42.png"/>
-                                        <img src="images/slide_images/43.png"/>
-                                        <img src="images/slide_images/44.png"/>
-                                        <img src="images/slide_images/45.png"/>
-                                        <img src="images/slide_images/46.png"/>
-                                        <img src="images/slide_images/47.png"/>
-                                        <img src="images/slide_images/48.png"/>
-                                        <img src="images/slide_images/49.png"/>
-                                        <img src="images/slide_images/50.png"/>
-                                        <img src="images/slide_images/51.png"/>
-                                        <img src="images/slide_images/52.png"/>
-                                        <img src="images/slide_images/53.png"/>
-                                        <img src="images/slide_images/54.png"/>
-                                        <img src="images/slide_images/55.png"/>
-                                        <img src="images/slide_images/56.png"/>
-                                        <img src="images/slide_images/57.png"/>
-                                        <img src="images/slide_images/58.png"/>
-                                        <img src="images/slide_images/59.png"/>
-                                        <img src="images/slide_images/60.png"/>
-                                    </div> */}
-
-                                    {/* <!-- <img src="./BAYC_files/bayc-mutant-hero.jpg" class="img-fluid px-0" usemap="#mutant"> --> */}
                                 </div>
                             </div>
                         </div>
@@ -447,7 +421,7 @@ function App() {
                                             <h3 class="fair-title">DISTRIBUTION</h3>
                                         </div>
                                         <div class="mb-2 mb-lg-0 col-lg-7 col-12">
-                                            <p class="common-p mb-lg-0">Buying a specimen will cost the same for everyone. Each Specimen will cost 300 Matic.</p>
+                                            <p class="common-p mb-lg-0">Free Mint, fuck it. Don’t be late</p>
                                         </div>
                                         <div class="col-lg-4 col-12 offset-lg-1">
                                             <p class="note text-justify mb-0">Note: Thirty specimens will be withheld from the sale. These specimens will be used for giveaways, holders and the creators membership access.</p>
@@ -460,9 +434,8 @@ function App() {
                                     <div id="buy-an-ape" class="buy-token-container">
                                         <div class="bayc-bg p-4 m-auto row">
                                             <div class="m-auto col-lg-3 col-12">
-                                                <h3 class="buy-ape-title">BUY A SPECIMEN</h3>
+                                                <h3 class="buy-ape-title">Free Mint</h3>
                                             </div>
-                                            {/* <div class="m-auto col-lg-4 col-12 offset-lg-1"> */}
                                             <div class="m-auto col-lg-4 col-12 offset-lg-1">
                                               <p class="common-p mb-lg-0 font-weight-bold">Public Mint will begin on June 11th at 12 PM EST.</p>
                                             </div>
@@ -517,7 +490,7 @@ function App() {
                                                                 getData();
                                                             }}
                                                             >
-                                                            {claimingNft ? "BUSY" : "MINT A SPECIMEN"}
+                                                                {claimingNft ? "BUSY ..." : "MINT A SPECIMEN"}
                                                             </button>
                                                         </>
                                                         )}
@@ -856,9 +829,9 @@ function App() {
                                     <a href="https://raritysniper.com/nft-drops-calendar">
                                         <img src="images/sniper_logo.png" class="pr-lg-0"
                                             style={{
-                                                "width": "22px",
-                                                "height": "21px",
-                                                "marginLeft": "13px"
+                                                "width": "19px",
+                                                "height": "19px",
+                                                "marginLeft": "9px"
                                             }}
                                         />
                                     </a>
