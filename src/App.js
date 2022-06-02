@@ -511,7 +511,7 @@ function App() {
                                                 <h2 class="common-title mb-3">About</h2>
                                                 <p class="common-p">Each Specimen is generated from over 130 handmade traits which include clothing, headwear, necklaces,skins and more. All of these Specimens are rare but some are rarer than others.
                                                     <hr/>The specimens live on the blockchain as ERC-721 tokens and are located on IPFS.
-                                                    <hr/>Purchasing a specimen will cost 300 Matic
+                                                    {/* <hr/>Purchasing a specimen will cost 300 Matic */}
                                                 </p>
                                             </div>
                                             <div class="my-auto col-lg-4 col-12 offset-lg-1"><img class="img-fluid w-100 gif"
